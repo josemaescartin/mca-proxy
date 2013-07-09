@@ -1,0 +1,35 @@
+{
+  "name": "mca-proxy",
+  "description": "MCA proxy",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "José Manuel Escartín",
+    "email": "josemaescartin@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josemaescartin/mca-proxy"
+  },
+  "bugs": {
+    "url": "https://github.com/josemaescartin/mca-proxy/issues"
+  },
+  "licenses": [
+    {
+      "type": "A",
+      "url": ""
+    }
+  ],
+  "main": "app/proxy.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "http-proxy": "0.10.3"
+  },
+  "keywords": []
+}
